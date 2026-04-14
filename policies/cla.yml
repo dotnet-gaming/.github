@@ -109,7 +109,3 @@ configuration:
          - Copilot
          - dotnet-renovate-bot
       autoSignMsftEmployee: true
-      signRepos:
-      - repoName: cla-approvers-intel
-        fileName: approvedUsers.csv
-        companyName: intel
