@@ -1,6 +1,0 @@
-{
-    "name": "Labeler: Promotion",
-    "description": "Promote a model from staging to 'ACTIVE', backing up the currently 'ACTIVE' model.",
-    "iconName": "octicon tag",
-    "categories": ["utilities"]
-}
